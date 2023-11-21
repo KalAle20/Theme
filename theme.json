@@ -15,7 +15,7 @@
 
     "theme_color_map": {
       "HEADER_PRIMARY": [
-        "#0ef6cd",
+        "#ffffff",
         "#060607"
       ],
       "HEADER_SECONDARY": [
@@ -27,7 +27,7 @@
         "#2e3338"
       ],
       "TEXT_MUTED": [
-        "#0ef6cd",
+        "#ffffff",
         "#ffffff"
       ],
       "INTERACTIVE_NORMAL": [
@@ -140,7 +140,7 @@
       "PRIMARY_DARK_100": "#FFFFFF",
       "PRIMARY_DARK_200": "#FFFFFF",
       "PRIMARY_DARK_300": "#807c7c",
-      "PRIMARY_DARK_360": "#0ef6cd",
+      "PRIMARY_DARK_360": "#ffffff",
       "PRIMARY_DARK_400": "#807c7c",
       "PRIMARY_DARK_500": "#34a4fa",
       "PRIMARY_DARK_600": "#111011",
